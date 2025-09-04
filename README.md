@@ -1,4 +1,5 @@
 
+
 # 📚 Book Tracker API
 
 ## 👨‍🏫 Assignment Questions
@@ -22,3 +23,9 @@ It allows users to:
 
 The project also ensures data validation (book year > 1900) and stores the creation date for each book.
 
+---
+
+## 👤 Student Details
+- **Name:** Jean Noel
+- **Email: jeannoelabeni459@gmail.com  
+- 
